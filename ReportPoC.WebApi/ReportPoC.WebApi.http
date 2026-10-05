@@ -1,0 +1,23 @@
+@baseUrl = https://localhost:7280
+
+### Download the sample PDF report
+GET {{baseUrl}}/reports/sample
+Accept: application/pdf
+
+### Flat sales report: portrait, date and currency formatting, totals
+GET {{baseUrl}}/reports/flat
+Accept: application/pdf
+
+### Grouped sales report: region sections and totals
+GET {{baseUrl}}/reports/grouped
+Accept: application/pdf
+
+### Styled sales report: links, highlights, widths, hidden columns
+GET {{baseUrl}}/reports/styled
+Accept: application/pdf
+
+### Currency summary: demo-only spell-out text
+GET {{baseUrl}}/reports/summary
+Accept: application/pdf
+
+###

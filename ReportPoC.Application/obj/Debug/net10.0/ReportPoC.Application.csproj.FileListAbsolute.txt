@@ -1,0 +1,11 @@
+C:\Projects\ReportPoC\ReportPoC.Application\bin\Debug\net10.0\ReportPoC.Application.deps.json
+C:\Projects\ReportPoC\ReportPoC.Application\bin\Debug\net10.0\ReportPoC.Application.dll
+C:\Projects\ReportPoC\ReportPoC.Application\bin\Debug\net10.0\ReportPoC.Application.pdb
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.AssemblyInfoInputs.cache
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.AssemblyInfo.cs
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.dll
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\refint\ReportPoC.Application.dll
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ReportPoC.Application.pdb
+C:\Projects\ReportPoC\ReportPoC.Application\obj\Debug\net10.0\ref\ReportPoC.Application.dll

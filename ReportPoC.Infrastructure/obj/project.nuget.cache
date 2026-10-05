@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CVJPGZPhy4=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ReportPoC\\ReportPoC.Infrastructure\\ReportPoC.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\morni\\.nuget\\packages\\questpdf\\2025.7.0\\questpdf.2025.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

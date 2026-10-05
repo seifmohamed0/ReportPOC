@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTfo0WR0azc=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ReportPoC\\ReportPoC.WebApi\\ReportPoC.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morni\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\morni\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\morni\\.nuget\\packages\\questpdf\\2025.7.0\\questpdf.2025.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Projects\\ReportPoC\\ReportPoC.WebApi\\ReportPoC.WebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Projects\\ReportPoC\\ReportPoC.WebApi\\ReportPoC.WebApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ReportPoC.Application/ReportPoC.Application.csproj" />
+  <Project Path="ReportPoC.Infrastructure/ReportPoC.Infrastructure.csproj" />
+  <Project Path="ReportPoC.WebApi/ReportPoC.WebApi.csproj" />
+  <Project Path="ReportPoC.Application.Tests/ReportPoC.Application.Tests.csproj" />
+</Solution>
